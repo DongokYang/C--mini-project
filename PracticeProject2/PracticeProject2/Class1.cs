@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PracticeProject2
+namespace PracticeProject223
 {
     internal class Stock
     {

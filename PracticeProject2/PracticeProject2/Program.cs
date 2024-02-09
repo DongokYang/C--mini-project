@@ -19,6 +19,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using stocklibrary;
 
 namespace PracticeProject2
 {
@@ -26,9 +27,14 @@ namespace PracticeProject2
     {
         static void Main(string[] args)
         {
-            Stock Orcl = new Stock("ORCL", "Oracle", 34.5m);
-            Orcl.SetCurrentPrice(34.35m);
-            Console.WriteLine(Orcl.GetChangePercent());
+            Stock first = new Stock("ORCL", "Oracle", 34.5m);
+            Console.WriteLine(first.CurrentPrice);
+            Console.WriteLine(first.PrevClosingPrice);
+            Console.WriteLine(first.ChangedPercent);
+            first.CurrentPrice = 34.1m;
+            Console.WriteLine(first.CurrentPrice);
+            Console.WriteLine(first.PrevClosingPrice);
+            Console.WriteLine(first.ChangedPercent);
         }
     }
 }

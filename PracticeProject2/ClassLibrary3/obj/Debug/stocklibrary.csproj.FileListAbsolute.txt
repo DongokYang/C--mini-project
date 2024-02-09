@@ -1,0 +1,6 @@
+C:\Users\marti\OneDrive\바탕 화면\GitHUB\C#-mini-projects\PracticeProject2\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\marti\OneDrive\바탕 화면\GitHUB\C#-mini-projects\PracticeProject2\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\marti\OneDrive\바탕 화면\GitHUB\C#-mini-projects\PracticeProject2\ClassLibrary3\obj\Debug\stocklibrary.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\바탕 화면\GitHUB\C#-mini-projects\PracticeProject2\ClassLibrary3\obj\Debug\stocklibrary.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\바탕 화면\GitHUB\C#-mini-projects\PracticeProject2\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\marti\OneDrive\바탕 화면\GitHUB\C#-mini-projects\PracticeProject2\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

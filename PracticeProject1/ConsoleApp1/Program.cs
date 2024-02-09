@@ -26,16 +26,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RectangleLibrary;
+
+// Program.cs
+using System;
+using RectangleLibrary;  // Make sure to include the namespace
 
 namespace practiceProject1
-
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Rectangle first = new Rectangle(4,40);
-            Rectangle second = new Rectangle(3.5, 35.9);
+            Rectangle first = new Rectangle(4, 40);
+            Rectangle second = new Rectangle(3, 35); // Using integers here, adjust as needed
             Console.WriteLine("First Rectangle: " + first.ToString());
             Console.WriteLine("Second Rectangle: " + second.ToString());
         }
