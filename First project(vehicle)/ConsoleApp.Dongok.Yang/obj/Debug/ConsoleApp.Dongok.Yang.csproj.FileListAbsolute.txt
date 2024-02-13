@@ -1,0 +1,8 @@
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\bin\Debug\ConsoleApp.Dongok.Yang.exe.config
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\bin\Debug\ConsoleApp.Dongok.Yang.exe
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\bin\Debug\ConsoleApp.Dongok.Yang.pdb
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\obj\Debug\ConsoleApp.Dongok.Yang.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\obj\Debug\ConsoleApp.Dongok.Yang.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\obj\Debug\ConsoleApp.Dongok.Yang.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\obj\Debug\ConsoleApp.Dongok.Yang.exe
+C:\Users\marti\source\repos\AutomotiveGroup.Dongok.Yang\ConsoleApp.Dongok.Yang\obj\Debug\ConsoleApp.Dongok.Yang.pdb
