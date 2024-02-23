@@ -1,0 +1,21 @@
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\bin\Debug\GeometricShapeTest.exe.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\bin\Debug\GeometricShapeTest.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\bin\Debug\GeometricShapeTest.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\bin\Debug\PracticeProjectFour.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\bin\Debug\PracticeProjectFour.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.AssemblyReference.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.CoreCompileInputs.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.CopyComplete
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.pdb
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\bin\Debug\GeometricShapeTest.exe.config
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\bin\Debug\GeometricShapeTest.exe
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\bin\Debug\GeometricShapeTest.pdb
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\bin\Debug\PracticeProjectFour.dll
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\bin\Debug\PracticeProjectFour.pdb
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.AssemblyReference.cache
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.CoreCompileInputs.cache
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.csproj.CopyComplete
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.exe
+C:\Users\plosz\OneDrive - Red River College Polytech\Desktop\PracticeProjectFour\PracticeProjectFour\GeometricShapeTest\obj\Debug\GeometricShapeTest.pdb
