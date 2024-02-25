@@ -1,0 +1,8 @@
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\bin\Debug\Practice Project 1-2.exe.config
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\bin\Debug\Practice Project 1-2.exe
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\bin\Debug\Practice Project 1-2.pdb
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\obj\Debug\Practice Project 1-2.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\obj\Debug\Practice Project 1-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\obj\Debug\Practice Project 1-2.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\obj\Debug\Practice Project 1-2.exe
+C:\Users\marti\source\repos\Practice Project 1-2\Practice Project 1-2\obj\Debug\Practice Project 1-2.pdb
