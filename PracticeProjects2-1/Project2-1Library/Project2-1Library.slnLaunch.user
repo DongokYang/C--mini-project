@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Project2-1Console\\Project2-1Console.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

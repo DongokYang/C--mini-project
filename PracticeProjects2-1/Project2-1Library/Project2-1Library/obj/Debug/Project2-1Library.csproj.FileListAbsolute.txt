@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Library\bin\Debug\Project2-1Library.dll
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Library\bin\Debug\Project2-1Library.pdb
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Library\obj\Debug\Project2-1Library.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Library\obj\Debug\Project2-1Library.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Library\obj\Debug\Project2-1Library.dll
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Library\obj\Debug\Project2-1Library.pdb

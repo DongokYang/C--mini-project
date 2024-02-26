@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\bin\Debug\Project2-1Console.exe.config
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\bin\Debug\Project2-1Console.exe
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\bin\Debug\Project2-1Console.pdb
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\bin\Debug\Project2-1Library.dll
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\bin\Debug\Project2-1Library.pdb
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\obj\Debug\Project2-1Console.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\obj\Debug\Project2-1Console.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\obj\Debug\Project2.90646EC4.Up2Date
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\obj\Debug\Project2-1Console.exe
+C:\Users\marti\source\repos\Project2-1Library\Project2-1Console\obj\Debug\Project2-1Console.pdb

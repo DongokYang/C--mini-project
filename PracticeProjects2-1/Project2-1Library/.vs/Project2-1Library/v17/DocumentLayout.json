@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\Project2-1Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53C18C5-F131-488E-B415-658D81EAD4F7}|Project2-1Library\\Project2-1Library.csproj|c:\\users\\marti\\source\\repos\\project2-1library\\project2-1library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53C18C5-F131-488E-B415-658D81EAD4F7}|Project2-1Library\\Project2-1Library.csproj|solutionrelative:project2-1library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68499F5E-C583-4B19-BF1F-AAC3E615513B}|Project2-1Console\\Project2-1Console.csproj|C:\\Users\\marti\\source\\repos\\Project2-1Library\\project2-1console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68499F5E-C583-4B19-BF1F-AAC3E615513B}|Project2-1Console\\Project2-1Console.csproj|solutionrelative:project2-1console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\Project2-1Library\\Project2-1Console\\Program.cs",
+              "RelativeDocumentMoniker": "Project2-1Console\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\Project2-1Library\\Project2-1Console\\Program.cs",
+              "RelativeToolTip": "Project2-1Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T02:41:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\Project2-1Library\\Project2-1Library\\Class1.cs",
+              "RelativeDocumentMoniker": "Project2-1Library\\Class1.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\Project2-1Library\\Project2-1Library\\Class1.cs",
+              "RelativeToolTip": "Project2-1Library\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T02:37:56.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
