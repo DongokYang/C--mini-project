@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GitHUB\\C#-mini-projects\\Practice Project 1-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB613C9-699F-4FBB-B6C3-2E3E7BF5534E}|Practice Project 1-2\\Practice Project 1-2.csproj|C:\\Users\\marti\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GitHUB\\C#-mini-projects\\Practice Project 1-2\\practice project 1-2\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB613C9-699F-4FBB-B6C3-2E3E7BF5534E}|Practice Project 1-2\\Practice Project 1-2.csproj|solutionrelative:practice project 1-2\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB613C9-699F-4FBB-B6C3-2E3E7BF5534E}|Practice Project 1-2\\Practice Project 1-2.csproj|c:\\users\\marti\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\github\\c#-mini-projects\\practice project 1-2\\practice project 1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB613C9-699F-4FBB-B6C3-2E3E7BF5534E}|Practice Project 1-2\\Practice Project 1-2.csproj|solutionrelative:practice project 1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GitHUB\\C#-mini-projects\\Practice Project 1-2\\Practice Project 1-2\\Stock.cs",
+              "RelativeDocumentMoniker": "Practice Project 1-2\\Stock.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GitHUB\\C#-mini-projects\\Practice Project 1-2\\Practice Project 1-2\\Stock.cs",
+              "RelativeToolTip": "Practice Project 1-2\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T03:22:16.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GitHUB\\C#-mini-projects\\Practice Project 1-2\\Practice Project 1-2\\Program.cs",
+              "RelativeDocumentMoniker": "Practice Project 1-2\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GitHUB\\C#-mini-projects\\Practice Project 1-2\\Practice Project 1-2\\Program.cs",
+              "RelativeToolTip": "Practice Project 1-2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T03:22:16.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
